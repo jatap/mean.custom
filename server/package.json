@@ -1,5 +1,5 @@
 {
-  "name": "mean.custom",
+  "name": "mean.custom.server",
   "version": "1.0.0",
   "description": "MEAN custom application",
   "main": "index.js",
