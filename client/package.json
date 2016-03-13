@@ -1,6 +1,7 @@
 {
-  "name": "client",
+  "name": "mean.custom.client",
   "private": true,
+  "version": "1.0.0",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-angular-templates": "^0.5.7",
