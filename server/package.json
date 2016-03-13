@@ -1,0 +1,27 @@
+{
+  "name": "mean.custom",
+  "version": "1.0.0",
+  "description": "MEAN custom application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jatap/mean.custom.git"
+  },
+  "author": "Julio Antúnez Tarín",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jatap/mean.custom/issues"
+  },
+  "homepage": "https://github.com/jatap/mean.custom#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "lodash": "^4.6.1",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.4.7",
+    "resourcejs": "^1.0.6"
+  }
+}
